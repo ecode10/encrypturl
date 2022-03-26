@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8khPKtTqC+PilmvNZyXBJIZQbv5EnVMnvHpEVZzmLOHU076oMzmfjstx0VLtmmmqU0dngvCCUMOHaJ3ppi20WA==",
+  "success": true,
+  "projectFilePath": "/Users/mauriciojunior/RiderProjects/encryptdata2/encryptdata2/encryptdata2.csproj",
+  "expectedPackageFiles": [
+    "/Users/mauriciojunior/.nuget/packages/criptquery-net-6/1.0.3/criptquery-net-6.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

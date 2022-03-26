@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "encryptdata2/1.0.0": {
+        "dependencies": {
+          "CriptQuery-NET-6": "1.0.3"
+        },
+        "runtime": {
+          "encryptdata2.dll": {}
+        }
+      },
+      "CriptQuery-NET-6/1.0.3": {
+        "runtime": {
+          "lib/net6.0/CriptQuery-NET-6.dll": {
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "encryptdata2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CriptQuery-NET-6/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-F4OZzXIytEJpwPL5aO8gQxt1e/f6jl4Vn+nYkvLW7JZRIYwnxwdWvAc724XmWAqgOX4aY4czVSohp0x4vP898w==",
+      "path": "criptquery-net-6/1.0.3",
+      "hashPath": "criptquery-net-6.1.0.3.nupkg.sha512"
+    }
+  }
+}
